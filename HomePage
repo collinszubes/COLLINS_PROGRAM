@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Home Paage</title>
+<link type="text/css" rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<div id="header"></div>
+<div id="banner"></div>
+<div id="left-side"><h3>Course Outline</h3></div>
+<div id="right-side"><h3>User Details</h3></div>
+<div id="footer"></div>
+</body>
+</html>

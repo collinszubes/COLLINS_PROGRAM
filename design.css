@@ -1,0 +1,179 @@
+header{
+	background-color:#002a5f;
+	height:60px;
+	width:100%;
+	color:ffab3f;
+	
+}
+a{
+		color:ffab3f;
+	    text-decoration: none;
+}
+#header_title{
+	font-size:36px;
+	padding-top:20px;
+	padding-left:18px;
+}
+
+#img{
+	padding-left:20px;
+}
+#menu{
+	float:right;
+	margin-right:10px;
+	
+}
+
+#menu menuitem{
+	padding:5px;
+	
+}
+
+#container{
+	width:1000px;
+}
+
+#left_section{
+	border: solid 1px;
+	width:450px;
+	float:right;
+	margin-right:350px;
+	margin-top:30px;
+}
+
+#right_section{
+	border: solid 1px;
+	width:450px;
+	float:right;
+	margin-right:-120px;
+	margin-top:-319px;
+	height:318px;	
+	
+
+}
+
+#course{
+	padding-left:21px;
+	
+}
+
+#design{
+	margin-left:-15px;
+}
+
+#username{
+	width:240px;
+	height:30px;
+	margin-left:12px;
+}
+#password{
+	width:240px;
+	margin-top:15px;
+	height:30px;
+	margin-left:15px;
+}
+
+#login{
+	margin-top:90px;
+}
+
+#form{
+	margin-left:400px;
+	margin-top:50px;
+	
+	
+	
+}
+.form{
+	padding-top:30px;
+	border:solid 1px;
+	width:500px;
+	padding-left:110px;
+height:200px;
+	
+}
+
+.form1{
+	padding-top:30px;
+	border:solid 1px;
+	width:500px;
+	padding-left:110px;
+height:550px;
+	
+}
+	
+#check{
+
+	margin-left: 162px;
+}
+
+	#fname{
+width:240px;
+	margin-top:15px;
+	height:30px;
+	margin-left: 85px;
+	}
+#sname{
+	width:240px;
+	margin-top:15px;
+	height:30px;
+	margin-left: 100px;
+}
+
+#year{
+	margin-left: 72px;
+}
+
+#sex{
+   margin-left: 134px;
+}
+
+#submit{
+	margin-left:160px;
+	margin-top:15px;
+}
+
+
+#pass{
+	width:240px;
+	margin-top:15px;
+	height:30px;
+	margin-left: 96px;
+}
+
+#user{
+	width:240px;
+	margin-top:15px;
+	height:30px;
+	margin-left: 92px;
+}
+
+#confirmpass{
+	width:240px;
+	margin-top:15px;
+	height:30px;
+	margin-left: 38px;
+}
+
+#terms{
+	float:right;
+	padding-top:10px;
+	padding-right:10px;
+}
+
+
+
+#footer_title{
+	font-size:36px;
+	padding-top:20px;
+	padding-left:18px;
+}
+
+
+footer{
+	background-color:#666666;
+	color:white;
+	height:50px;
+	width:100%;
+	margin-top:600px;
+}
